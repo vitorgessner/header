@@ -51,3 +51,8 @@ ul li:last-child::after{
 .dropdown--content::content {
     padding: 1em;
 }
+
+span {
+    display: block;
+    padding: .5em;
+}
